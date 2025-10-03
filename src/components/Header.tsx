@@ -55,7 +55,7 @@ function Header() {
     >
       <div className="logo">
         <div className="img">
-         <img src="../dist/assets/SOB READY.png" alt="" /></div>
+              <li style={{fontWeight:"bold"}}><b style={{color:"red"}}>SOB</b> READY</li></div>
       </div>
 
       <div className="box">
